@@ -1,2 +1,0 @@
-# latinaris.github.com
-Latinaris
